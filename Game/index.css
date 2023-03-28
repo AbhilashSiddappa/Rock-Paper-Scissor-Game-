@@ -1,0 +1,40 @@
+.game-inner {
+    background-color: aquamarine;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px 20px;
+}
+
+div#player1 {
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 600;
+        margin-bottom: 10px;
+}
+div#player2 {
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 600;
+        margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 43px;
+    font-size: 18px;
+    border: none;
+    font-weight: 600;
+    color: aquamarine;
+    border-radius:10px;
+    cursor:pointer;
+}
+button:hover {
+    color: black;
+}
+
+div#result {
+    font-size: 20px;
+    font-weight: 600;
+    color: blue;
+    margin-bottom: 20px;
+}
